@@ -113,9 +113,9 @@ print('RMSE = ', rmse)
 ## Test Set Graph:
 ![image](https://github.com/UdhayanithiM/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/127933352/efc382b6-4290-4dcc-af55-5323484f7809)
 
+## Values of MSE, MAE and RMSE:
 
-
-
+![image](https://github.com/UdhayanithiM/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/127933352/1fd5c68f-aa55-4b97-8218-491b59121985)
 
 
 
